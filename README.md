@@ -13,7 +13,6 @@
     <a href="https://discord.gg/bRCvFy9"><img src="https://cdn.discordapp.com/attachments/747372317687939113/759824923190493214/9c31f2d25f5a6b3cd03b5daed2369c93.png"></a>
     <a href="https://discord.gg/bRCvFy9"><img src="https://cdn.discordapp.com/attachments/747372317687939113/759824923190493214/9c31f2d25f5a6b3cd03b5daed2369c93.png"></a>
     <a href="https://discord.gg/bRCvFy9"><img src="https://cdn.discordapp.com/attachments/747372317687939113/759824923190493214/9c31f2d25f5a6b3cd03b5daed2369c93.png"></a>
-    <a href="https://discord.gg/bRCvFy9"><img src="https://cdn.discordapp.com/attachments/747372317687939113/759824923190493214/9c31f2d25f5a6b3cd03b5daed2369c93.png"></a>
   </p>
 </div>
 
@@ -34,9 +33,10 @@
 <div>
   <br />
   <p>
-    <a href="https://www.youtube.com/channel/UCdJN1G13UswgVrnq0PyA5lA"><img src="https://yt3.ggpht.com/a/AATXAJwUNs83IZRAm2vTA7N1Owkj4PIZrrl7UwiAxEAz=s100-c-k-c0xffffffff-no-rj-mo">YouTube</a>
-    <a href="https://github.com/ardakaragoz/"><img src="https://cdn.discordapp.com/attachments/755471040850690220/759830287965225000/icon1.jpg">GitHub</a>
-
+    <a href="https://www.youtube.com/channel/UCdJN1G13UswgVrnq0PyA5lA"><img src="https://yt3.ggpht.com/a/AATXAJwUNs83IZRAm2vTA7N1Owkj4PIZrrl7UwiAxEAz=s100-c-k-c0xffffffff-no-rj-mo"></a>
+    <a href="https://github.com/ardakaragoz/"><img src="https://cdn.discordapp.com/attachments/755471040850690220/759830287965225000/icon1.jpg"></a>
+    <a href="https://discord.com/invite/5QuYStX"><img src="https://cdn.discordapp.com/icons/723964114069618798/a_e3c69853afd5986a4cd44ad74299d13a.gif"></a>
+      <a href="https://glitch.com/@fleeingrhino"><img src="https://cdn.discordapp.com/attachments/727808813838893086/759879445929656330/indir_2.jpg"></a>
   </p>
   </div>
 
