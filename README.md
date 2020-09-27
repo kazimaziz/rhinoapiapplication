@@ -7,16 +7,21 @@
 ## Türkçe
 
 
-dw fvegrbthy
-ghtnrjymuö
-hnytmj
-rthyjtyök
-kuyç
-jtukyılo
-
-
-
-
-
+- Object-oriented
+- Predictable abstractions
+- Performant
+- 100% coverage of the Discord API
+- Object-oriented
+- Predictable abstractions
+- Performant
+- 100% coverage of the Discord API
+- Object-oriented
+- Predictable abstractions
+- Performant
+- 100% coverage of the Discord API
+- Object-oriented
+- Predictable abstractions
+- Performant
+- 100% coverage of the Discord API
 
 ## English
