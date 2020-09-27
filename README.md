@@ -7,16 +7,12 @@
 ## Türkçe
 
 
-
-
-
-
-
-
-
-
-
-
+dw fvegrbthy
+ghtnrjymuö
+hnytmj
+rthyjtyök
+kuyç
+jtukyılo
 
 
 
