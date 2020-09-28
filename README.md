@@ -74,6 +74,16 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
   * Basket Takımı
   * Basket MVP
 ```
+
+##### API Özellikleri
+
+```md
+Kurulma Tarihi: 27.09.2020
+API Yapımcısı: Arda Karagöz
+API Versiyon: 0.0.2
+API SON VERSİYON Yapım Tarihi: 28.09.2020
+```
+
 ## English
 
 ### Rhino API
