@@ -118,6 +118,8 @@ const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
 
 Aylık Değiştirmeyi Planlıyorum.
 
+## Kod Türleri
+
 ## English
 
 ### Rhino API
@@ -126,7 +128,7 @@ Aylık Değiştirmeyi Planlıyorum.
 
 
   * [How To Use?](#how-to-use)
-  * [Getting The API Key](#getting-the-apı-key)
+  * [Getting The API Key](#getting-the-api-key)
   * [Code Types](#code-types)
   * [Code Examples](#code-examples)
   * [Other Files in GitHub](#other-files)
