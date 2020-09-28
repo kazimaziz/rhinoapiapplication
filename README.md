@@ -87,9 +87,9 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
 Generally API can be use for searching random results (draws, texts etc.), it also can be use for searching datas.
 API's purpose is **help peoples node projects**
 
-##### API Özellikleri
+##### API Features
 
-Şu ANLIK API'DE Bulunan Tam __10__ Özellik
+ __10__ Features THAT ARE IN API
 
 ```md
 * API Codes With Images
