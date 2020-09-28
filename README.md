@@ -114,6 +114,10 @@ const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
 Önce Discord Sunucumuza Katılıyorsunuz ve Orada rol-alma-odası adlı kanaldan api rolünü alıyorsunuz. Ondan Sonra API KEY'in olduğu şu odaya geliyorsunuz:
 ![](https://cdn.discordapp.com/attachments/727808813838893086/760114138810417192/Ekran_Goruntusu_88.png)
 
+#### API Değişiyor mu?
+
+Aylık Değiştirmeyi Planlıyorum.
+
 ## English
 
 ### Rhino API
@@ -122,7 +126,7 @@ const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
 
 
   * [How To Use?](#how-to-use)
-  * [Getting The API Key](#getting-the-api-key)
+  * [Getting The API Key](#getting-the-apı-key)
   * [Code Types](#code-types)
   * [Code Examples](#code-examples)
   * [Other Files in GitHub](#other-files)
@@ -162,3 +166,28 @@ API Creator: Arda Karagoz
 API Version: 0.0.2
 API LAST VERSION Date: 28-09-2020
 ```
+
+#### What IS API and How Is It Working?
+
+###### This API's source is from a website that I coded hours. The template of api site is => https://api-rhino.glitch.me.
+###### BUT!!! Before Using Codes, you must get the API Key. Look below for an site example:
+
+```js
+const rhinoapi = "RHINO_API_TOKEN"
+const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
+```
+
+## Getting The API Key
+
+#### Why API Key?
+
+Because, if you want source of code we must verify you are in my Discord Server.
+
+#### How To Get API?
+
+First, you have to join our Discord Server. Then Come Room rol-alma-odası and take the API role. Then go rhinoapi-key room and there is the API key:
+![](https://cdn.discordapp.com/attachments/727808813838893086/760114138810417192/Ekran_Goruntusu_88.png)
+
+#### Will You Change API?
+
+I will change month by month
