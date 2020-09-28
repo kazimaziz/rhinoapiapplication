@@ -24,7 +24,7 @@
 
 * Documentation
   * [Türkçe](#türkçe)
-    * []()
+    * [Not](####Not: Bu API herhangi bir resmi NPM paketi değildir. Bu da Demek Oluyor Ki Bu Paketi Herhangi Bir Şekilde npm üzerinden indiremezsiniz. Bu API insanların random veya çeşitli tarzlardaki aramalarına yardımcı olmak için yapılmıştır. KOLAY GELSİN!)
   * [English](#english)
 
 ## Useful Links
