@@ -83,3 +83,26 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
 ## How To Use
 
 #### Details of API
+
+Generally API can be use for searching random results (draws, texts etc.), it also can be use for searching datas.
+API's purpose is **help peoples node projects**
+
+##### API Özellikleri
+
+Şu ANLIK API'DE Bulunan Tam __10__ Özellik
+
+```md
+* API Codes With Images
+  * Kedi (Cat)
+  * Atatürk (Ataturk)
+  * Bilgisayar (Computer)
+  * Valorant (Valorant)
+* API Codes With Texts
+  * Espri (Humor)
+  * Atasözü (Turkish Meaningful Phrases)
+  * İlginç Haber (Interesting News)
+* API Codes With Both Texts and Images
+  * Yemek (Food)
+  * Basketbol Takımı (Basketball Teams)
+  * Basketbol MVP (Baksetball MVP'S)
+```
