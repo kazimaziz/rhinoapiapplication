@@ -105,6 +105,15 @@ const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
 
 ## API Key Alma
 
+#### Neden API Key?
+
+Çünkü bu verilere ulaşmak için önce belli bir güvenlik sistemi olması gerek. API key şu anlık bir tane. Keyi Öğrenmek İçin Aşağı Bak!
+
+#### API Key Nasıl Alınır?
+
+Önce Discord Sunucumuza Katılıyorsunuz ve Orada rol-alma-odası adlı kanaldan api rolünü alıyorsunuz. Ondan Sonra API KEY'in olduğu şu odaya geliyorsunuz:
+![](https://cdn.discordapp.com/attachments/727808813838893086/760114138810417192/Ekran_Goruntusu_88.png)
+
 ## English
 
 ### Rhino API
