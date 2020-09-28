@@ -22,9 +22,10 @@
 ## ALSO You Can Find Documentations in [here](https://rhinobottr.glitch.me/api/api_main.html)
 
 
-- Documentation
-  - [Türkçe](#türkçe)
-  - [English](#english)
+* Documentation
+  * [Türkçe](#türkçe)
+    * []()
+  * [English](#english)
 
 ## Useful Links
 
@@ -44,6 +45,10 @@
 
 ### Rhino API
 
-Bu Api
+#### Not: Bu API herhangi bir resmi NPM paketi değildir. Bu da Demek Oluyor Ki Bu Paketi Herhangi Bir Şekilde npm üzerinden indiremezsiniz. Bu API insanların random veya çeşitli tarzlardaki aramalarına yardımcı olmak için yapılmıştır. KOLAY GELSİN!
 
 ## English
+
+### Rhino API
+
+##### Note: This API is not an official NPM package. It means that you CAN not download it by npm. This API has created in order to help people to make random or in several types of search. ENJOY IT!
