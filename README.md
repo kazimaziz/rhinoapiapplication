@@ -21,6 +21,11 @@
 
 ## ALSO You Can Find Documentations in [here](https://rhinobottr.glitch.me/api/api_main.html)
 
+## Status
+#### Version: 0.0.2
+#### Version Type: Beta
+#### Prediction For Full Version Time: 09.10.2020 - 14.10.2020
+
 
 * Documentation
   * [Türkçe](#türkçe)
