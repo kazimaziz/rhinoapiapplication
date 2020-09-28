@@ -26,6 +26,7 @@
   * [Türkçe](#türkçe)
   * [Nasıl Kullanılır?](#nasıl-kullanılır)
   * [English](#english)
+  * [How To Use](#how-to-use)
 
 ## Useful Links
 
@@ -51,6 +52,28 @@
 
 #### Api'nin Detayları
 
+API genel olarak insanlara random sonuç (resim, yazı vs.) aratmak için olsa da bazı özellikler veri aramak için de kullanılabilir. 
+API'deki temel amaç; **insanların node projelerindeki belli araştırmaları kolaylaştırmaktır**
+
+##### API Özellikleri
+
+Şu ANLIK API'DE Bulunan Tam __10__ Özellik
+
+```md
+* Resimli API Kodları
+  * Kedi
+  * Atatürk
+  * Bilgisayar
+  * Valorant
+* Yazılı API Kodları
+  * Espri
+  * Atasözü
+  * İlginç Haber
+* Hem Yazılı Hem Resimli API Kodları
+  * Yemek
+  * Basket Takımı
+  * Basket MVP
+```
 ## English
 
 ### Rhino API
