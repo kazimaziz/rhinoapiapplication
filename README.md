@@ -24,7 +24,7 @@
 
 * Documentation
   * [Türkçe](#türkçe)
-    * [Not](####Not: Bu API herhangi bir resmi NPM paketi değildir. Bu da Demek Oluyor Ki Bu Paketi Herhangi Bir Şekilde npm üzerinden indiremezsiniz. Bu API insanların random veya çeşitli tarzlardaki aramalarına yardımcı olmak için yapılmıştır. KOLAY GELSİN!)
+  * [Nasıl Kullanılır?](#nasıl-kullanılır)
   * [English](#english)
 
 ## Useful Links
@@ -47,8 +47,16 @@
 
 #### Not: Bu API herhangi bir resmi NPM paketi değildir. Bu da Demek Oluyor Ki Bu Paketi Herhangi Bir Şekilde npm üzerinden indiremezsiniz. Bu API insanların random veya çeşitli tarzlardaki aramalarına yardımcı olmak için yapılmıştır. KOLAY GELSİN!
 
+## Nasıl Kullanılır
+
+#### Api'nin Detayları
+
 ## English
 
 ### Rhino API
 
 ##### Note: This API is not an official NPM package. It means that you CAN not download it by npm. This API has created in order to help people to make random or in several types of search. ENJOY IT!
+
+## How To Use
+
+#### Details of API
