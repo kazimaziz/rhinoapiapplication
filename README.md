@@ -80,7 +80,7 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
   * Basket MVP
 ```
 
-##### API Özellikleri
+##### API Bilgileri
 
 ```md
 Kurulma Tarihi: 27.09.2020
@@ -120,4 +120,13 @@ API's purpose is **help peoples node projects**
   * Yemek (Food)
   * Basketbol Takımı (Basketball Teams)
   * Basketbol MVP (Baksetball MVP'S)
+```
+
+#### API Informations
+
+```md
+Creation Date: 27-09-2020
+API Creator: Arda Karagoz
+API Version: 0.0.2
+API LAST VERSION Date: 28-09-2020
 ```
