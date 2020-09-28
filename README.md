@@ -29,9 +29,7 @@
 
 * Documentation
   * [Türkçe](#türkçe)
-  * [Nasıl Kullanılır?](#nasıl-kullanılır)
   * [English](#english)
-  * [How To Use](#how-to-use)
 
 ## Useful Links
 
@@ -52,6 +50,12 @@
 ### Rhino API
 
 #### Not: Bu API herhangi bir resmi NPM paketi değildir. Bu da Demek Oluyor Ki Bu Paketi Herhangi Bir Şekilde npm üzerinden indiremezsiniz. Bu API insanların random veya çeşitli tarzlardaki aramalarına yardımcı olmak için yapılmıştır. KOLAY GELSİN!
+
+  * [Nasıl Kullanılır?](#nasıl-kullanılır)
+  * [Api Key Alma](#api-key-alma)
+  * [Kod Türleri](#kod-türleri)
+  * [Kod Örnekleri](#kod-örnekleri)
+  * [GitHub Diğer Dosyalar Ne?](#diğer-dosyalar)
 
 ## Nasıl Kullanılır
 
@@ -89,11 +93,30 @@ API Versiyon: 0.0.2
 API SON VERSİYON Yapım Tarihi: 28.09.2020
 ```
 
+#### API Nasıl Bir Şey ve Nasıl Çalışıyor?
+
+###### API, Tamamen Kendi Kodladığım Bir Veritabanı WebSitesinden verileri alıyor. Sitenin temeli https://api-rhino.glitch.me.
+###### Ancak!!! Verileri almak için önce API Key Almanız Lazım. Örnek Kod Kullanımı Şöyle:
+
+```js
+const rhinoapi = "RHINO_API_TOKEN"
+const siteexample = "https://api-rhino.glitch.me/" + rhinoapi + "/kedi1.json"
+```
+
+## API Key Alma
+
 ## English
 
 ### Rhino API
 
 ##### Note: This API is not an official NPM package. It means that you CAN not download it by npm. This API has created in order to help people to make random or in several types of search. ENJOY IT!
+
+
+  * [How To Use?](#how-to-use)
+  * [Getting The API Key](#getting-the-api-key)
+  * [Code Types](#code-types)
+  * [Code Examples](#code-examples)
+  * [Other Files in GitHub](#other-files)
 
 ## How To Use
 
