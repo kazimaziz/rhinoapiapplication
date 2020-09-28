@@ -40,6 +40,8 @@ const RHINO_API = "RHINO API ANAHTARI"
 Devamında Artık Verileri Almamız Lazım
 
 ```js
+const axios = require('axios')
+
 axios
 
       .get("https://api-rhino.glitch.me/" + rhinoapi_token + "/kedi" + randomgörsel + ".json")
@@ -60,6 +62,8 @@ axios
 Bizim Veriyi Almamız İçin Şunu Yapmamız Lazım:
 
 ```js
+const axios = require('axios')
+
 axios
 
       .get("https://api-rhino.glitch.me/" + rhinoapi_token + "/kedi" + randomgörsel + ".json")
