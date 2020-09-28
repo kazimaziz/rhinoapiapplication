@@ -26,7 +26,7 @@ npm install axios
 Sonrasında ilk olarak API KEY'i tanımlayalım.
 
 ```js
-const RHINO_API = "RHINO API ANAHTARI"
+const rhinoapi_token = "RHINO API ANAHTARI"
 ```
 
 Şimdi Kedi Veritabanından Verileri Almamız Lazım ama Amacımız rastgele atmasıydı. Bu yüzden koda şunu da ekleyin (Herhangi Bir Random Modülü Varsa O da Olur):
@@ -100,7 +100,7 @@ npm install axios
 First, let's get our API KEY:
 
 ```js
-const RHINO_API = "RHINO API ANAHTARI"
+const rhinoapi_token = "RHINO API ANAHTARI"
 ```
 
 Now we want getting datas in cat api but we want to do this randomly. So please write these codes too (IF you have another module that exports numbers randomly, no matter): 
