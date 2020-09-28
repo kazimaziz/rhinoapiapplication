@@ -30,6 +30,7 @@
 * Documentation
   * [Türkçe](#türkçe)
   * [English](#english)
+  * [Helpers](#helpers)
 
 ## Useful Links
 
@@ -193,3 +194,7 @@ First, you have to join our Discord Server. Then Come Room rol-alma-odası and t
 #### Will You Change API?
 
 I will change month by month
+
+## Helpers
+
+#### Thanks for @LemionN#0344 to help my API.
