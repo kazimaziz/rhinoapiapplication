@@ -32,7 +32,7 @@ const RHINO_API = "RHINO API ANAHTARI"
 Şimdi Kedi Veritabanından Verileri Almamız Lazım ama Amacımız rastgele atmasıydı. Bu yüzden koda şunu da ekleyin (Herhangi Bir Random Modülü Varsa O da Olur):
 
 ```js
-  var rastgelesayılar = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"]
+  var rastgelesayılar = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
   var rastgelesonuç = Math.floor(Math.random()*rastgelesayılar.length)
   const randomgörsel = rastgelesayılar[rastgelesonuç];
 ```
@@ -87,3 +87,61 @@ Kolay Gelsin!
 Cat Code, is a api code that only contains image. It allows you to make random cat photos.
 
 #### How to Use Cat Code?
+
+Before starting, we have to download **axios** module. Go console and write this:
+
+```md
+npm install axios
+```
+First, let's get our API KEY:
+
+```js
+const RHINO_API = "RHINO API ANAHTARI"
+```
+
+Now we want getting datas in cat api but we want to do this randomly. So please write these codes too (IF you have another module that exports numbers randomly, no matter): 
+```js
+  var rastgelesayılar = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  var rastgelesonuç = Math.floor(Math.random()*rastgelesayılar.length)
+  const randomgörsel = rastgelesayılar[rastgelesonuç];
+```
+
+Now Time To Get DATAS!!!
+
+```js
+axios
+
+      .get("https://api-rhino.glitch.me/" + rhinoapi_token + "/kedi" + randomgörsel + ".json")
+
+      .then(response => {
+      // Bu ARAYA KODU YAZACAĞIZ
+      })
+```
+Now Datas Will Appear
+
+```md
+ {
+ "resim": "imageurl"
+ }
+```
+
+To Get Data We Have To Make This:
+
+```js
+axios
+
+      .get("https://api-rhino.glitch.me/" + rhinoapi_token + "/kedi" + randomgörsel + ".json")
+
+      .then(response => {
+      console.log(response.data.resim)
+      })
+```
+With this there is a text in your console
+
+![](https://cdn.discordapp.com/attachments/755005663071043654/760123808613924894/Ekran_Goruntusu_89.png)
+
+To send a Discord Message all you have to do is changing **console.log** with **message.channel.send** !!!
+
+It has also command files too!
+
+Nice Codings!!!
