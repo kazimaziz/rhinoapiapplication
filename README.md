@@ -67,22 +67,26 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
 
 ##### API Özellikleri
 
-Şu ANLIK API'DE Bulunan Tam __10__ Özellik
+Şu ANLIK API'DE Bulunan Tam __14__ Özellik
 
 ```md
-* Resimli API Kodları
-  * Kedi
-  * Atatürk
-  * Bilgisayar
-  * Valorant
-* Yazılı API Kodları
-  * Espri
-  * Atasözü
-  * İlginç Haber
-* Hem Yazılı Hem Resimli API Kodları
-  * Yemek
-  * Basket Takımı
-  * Basket MVP
+* API Codes With Images
+  * Kedi (Cat)
+  * Atatürk (Ataturk)
+  * Bilgisayar (Computer)
+  * Valorant (Valorant)
+  * NBA (NBA)
+* API Codes With Texts
+  * Espri (Humor)
+  * Atasözü (Turkish Meaningful Phrases)
+  * İlginç Haber (Interesting News)
+* API Codes With Both Texts and Images
+  * Yemek (Food)
+  * Basketbol Takımı (Basketball Teams)
+  * Basketbol MVP (Baksetball MVP'S)
+  * Valorant Harita (Valorant Map)
+  * Valorant Silah (Valorant Weapon)
+  * Türkiye Bölgeler (Turkey Regions)
 ```
 
 ##### API Bilgileri
@@ -90,8 +94,8 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
 ```md
 Kurulma Tarihi: 27.09.2020
 API Yapımcısı: Arda Karagöz
-API Versiyon: 0.0.2
-API SON VERSİYON Yapım Tarihi: 28.09.2020
+API Versiyon: 0.0.4
+API SON VERSİYON Yapım Tarihi: 29.09.2020
 ```
 
 #### API Nasıl Bir Şey ve Nasıl Çalışıyor?
@@ -143,7 +147,7 @@ API's purpose is **help peoples node projects**
 
 ##### API Features
 
- __10__ Features THAT ARE IN API
+ __14__ Features THAT ARE IN API
 
 ```md
 * API Codes With Images
@@ -151,6 +155,7 @@ API's purpose is **help peoples node projects**
   * Atatürk (Ataturk)
   * Bilgisayar (Computer)
   * Valorant (Valorant)
+  * NBA (NBA)
 * API Codes With Texts
   * Espri (Humor)
   * Atasözü (Turkish Meaningful Phrases)
@@ -159,6 +164,9 @@ API's purpose is **help peoples node projects**
   * Yemek (Food)
   * Basketbol Takımı (Basketball Teams)
   * Basketbol MVP (Baksetball MVP'S)
+  * Valorant Harita (Valorant Map)
+  * Valorant Silah (Valorant Weapon)
+  * Türkiye Bölgeler (Turkey Regions)
 ```
 
 #### API Informations
