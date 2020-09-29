@@ -1,0 +1,22 @@
+{
+  "name": "rhinoapiapplication",
+  "version": "0.0.1",
+  "description": "A Great Non-Official API for helping people to make easier commands in discord.js or their node projects.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "Rhino",
+    "Rhino-API",
+    "Rhino-App-Application"
+  ],
+  "author": "Arda Karagöz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
