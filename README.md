@@ -86,6 +86,7 @@ API'deki temel amaç; **insanların node projelerindeki belli araştırmaları k
   * Basketbol MVP (Baksetball MVP'S)
   * Valorant Harita (Valorant Map)
   * Valorant Silah (Valorant Weapon)
+  * Valorant Ajanlar (Valorant Agents)
   * Türkiye Bölgeler (Turkey Regions)
 ```
 
@@ -210,3 +211,4 @@ I will change month by month
 ### Glitch Files: Arda Karagoz
 ### API Using Founder: Arda Karagoz
 ### API Founder: Arda Karagoz
+#### Note: Valorant Agents API is from another github user but I changed some parts. https://github.com/LucaArgentieri/
