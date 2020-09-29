@@ -197,4 +197,8 @@ I will change month by month
 
 ## Helpers
 
-#### Thanks for @LemionN#0344 to help my API.
+### API Data Making: Arda Karagoz & @Lemion#0344
+### GitHub File: Arda Karagoz
+### Glitch Files: Arda Karagoz
+### API Using Founder: Arda Karagoz
+### API Founder: Arda Karagoz
